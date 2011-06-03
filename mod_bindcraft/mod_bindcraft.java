@@ -51,19 +51,19 @@ public class mod_bindcraft extends Mod
 	@Override
 	public String getModVersion()
 	{
-		return "1.5.2";
+		return "1.6.6_01";
 	}
 	
 	@Override
 	public String getModSystemVersion()
 	{
-		return "1.4";
+		return "1.5";
 	}
 	
 	@Override
 	public String getMinecraftVersion()
 	{
-		return "1.5_01";
+		return "1.6.6";
 	}
 	
 	@Override
